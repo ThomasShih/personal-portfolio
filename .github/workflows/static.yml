@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: bun install
       - name: Build
-        run: bun build
+        run: bun run build
 
   # Single deploy job since we're just deploying
   deploy:
