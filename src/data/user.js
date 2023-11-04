@@ -3,7 +3,7 @@ const INFO = {
 		title: "Thomas Shih",
 		name: "Thomas Shih",
 		email: "tshih113@gmail.com",
-		logo: "../logo.png",
+		logo: "./logo.png",
 	},
 
 	socials: {
